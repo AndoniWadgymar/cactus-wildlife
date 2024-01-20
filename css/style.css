@@ -49,6 +49,10 @@ body {
 
 /* NAVIGATION */
 
+header {
+  margin-bottom: 4.8rem;
+}
+
 .list-menu {
   list-style: none;
   display: flex;
@@ -396,6 +400,23 @@ body {
 /* ************************************ */
 /* ************* CAROUSEL */
 /* ************************************ */
+/* a {
+  text-decoration: none;
+}
+header {
+  width: 1140px;
+  max-width: 80%;
+  margin: auto;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  position: relative;
+  z-index: 100;
+}
+header a {
+  color: #eee;
+  margin-right: 40px;
+} */
 
 .carousel-section {
   margin-bottom: 9.6rem;

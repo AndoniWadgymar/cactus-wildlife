@@ -19,3 +19,5 @@ Thanksgiving Cactus (Schlumbergera truncata)
 - All three types need similar care with bright light and total darkness for 12 to 14 hours, starting in the fall, to rebloom.
 
 Golden Barrel Cactus
+
+Change
